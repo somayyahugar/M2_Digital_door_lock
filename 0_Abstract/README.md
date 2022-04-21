@@ -1,3 +1,4 @@
+Security is a prime concern in our day-today life. Everyone wants to be as much secure aspossible.   An   access   control   for   doors   forms   a   vital   link   in   a   security   chain.   
 This project is a ATMEGA328 microcontroller based digital door lock system using keypad which will provide complete security solution to lives and properties at homes,schools and offices. The security system contains a 4X4 keypad
 input unit for entering the Personal Identification Number (PIN)
 and a display unit in form of Liquid Crystal Display (LCD) for
